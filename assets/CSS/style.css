@@ -159,3 +159,20 @@ footer {
     font-size: 12px;
     text-align: center;
 }
+
+/*portfolio*/
+.work {
+    max-width: 274px;
+    overflow:auto;
+    position: relative;
+    float: left;
+    margin: 20px 0 25px;
+}
+
+.work:nth-child(even) {
+    margin-right: 40px;
+}
+#texture {
+    margin-left: 40px;
+}
+
