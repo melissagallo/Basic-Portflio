@@ -53,6 +53,8 @@ h2 h3 {
     overflow: auto;
     border-bottom: 2px solid #ccc;
     position: fixed;
+   
+   
     width: 100%;
 }
 
